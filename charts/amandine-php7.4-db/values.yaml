@@ -1,10 +1,10 @@
-NameSpace: mycloud
-AppName: amandine-php74-db
+NameSpace: koden-clients
+AppName: asso-9dot8-db
 
 MariadbReplicas: 1
 MariadbImageTag: latest
 MariadbDiskSize: 5Gi
 MariadbServerId: 2
-MariadbDbName: mydatabase
-MariadbDbUser: username
+MariadbDbName: 9dot8
+MariadbDbUser: 9dot8
 MariadbDbPort: 3306
