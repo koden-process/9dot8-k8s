@@ -3,3 +3,5 @@ AppName: asso-9dot8-app
 
 HostName: 9dot8.com
 DiskSize: 10Gi
+
+DockerImage: killiankopp/amandine-7.4:241122
